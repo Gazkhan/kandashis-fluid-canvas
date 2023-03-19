@@ -1,12 +1,15 @@
 {
   "name": "kandashis-fluid-canvas",
+  "id": "kandashis-fluid-canvas",
   "title": "Kandashi's Fluid Canvas",
   "description": "",
-  "version": "This is auto replaced",
-  "library": "false",
-  "manifestPlusVersion": "1.0.0",
+  "version": "1.0",
   "minimumCoreVersion": "9",
-  "compatibleCoreVersion": "9",
+  "compatibleCoreVersion": "10",
+  "compatibility": {
+    "minimum": 8,
+    "verified": 10.291
+  },
   "styles": ["/styles/kfcss.css"],
   "authors": [
     {
@@ -81,8 +84,9 @@
   "esmodules": [
     "/scripts/fluidCanvas.js"
   ],
+  "relationships": {},
   "socket": true,
-  "url": "https://github.com/kandashi/kandashis-fluid-canvas",
-  "manifest": "https://raw.githubusercontent.com/kandashi/kandashis-fluid-canvas/master/module.json",
-  "download": "This is auto replaced"
+  "url": "",
+  "manifest": "",
+  "download": ""
 }
